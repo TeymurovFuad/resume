@@ -2,4 +2,4 @@
 
 Published in site: https://teymurovfuad.github.io/resume/
 
-Resume: https://github.com/TeymurovFuad/resume/blob/master/Fuad's%20Resume.pdf
+Resume: https://raw.githubusercontent.com/TeymurovFuad/resume/master/Fuad's%20Resume(oct).pdf
